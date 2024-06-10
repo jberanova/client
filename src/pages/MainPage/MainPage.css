@@ -1,0 +1,19 @@
+.nadpis{
+        color: black;
+        margin: 2px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+
+.tlacitka{
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+.newinzeratTlacitko, .mojeinzeratyTlacitko{
+    margin: 5px;
+}

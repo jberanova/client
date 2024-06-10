@@ -1,0 +1,19 @@
+.newNadpis{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    }
+.nazev, .text, .jmeno, .telefon, .email, .newBack{
+    margin: -6px;
+}
+.create{
+    margin-top: 2em;
+}
+
+.projekt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
